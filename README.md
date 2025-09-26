@@ -1,5 +1,11 @@
 # Liquid Neural Morphogenesis in Cellular Automata
 
+
+
+<img width="843" height="759" alt="Screenshot 2025-09-26 at 15 47 41" src="https://github.com/user-attachments/assets/f0b65b98-4755-4b52-8300-8471b53486ae" />
+
+
+
 A liquid‑neural cellular automaton (LN‑CA) that **grows** target morphologies from a single seed and **self‑heals** after damage, trained and evaluated on an NVIDIA **A100‑40GB** in PyTorch 2.8 / CUDA 12.6. 
 
 ---
